@@ -41,6 +41,11 @@ The IC decodes this input and activates the corresponding segments of the 7-segm
 ## 📷 Circuit Diagram
 <img width="863" height="399" alt="image" src="https://github.com/user-attachments/assets/43ff427c-eb83-4a07-9e58-096d0f2263e9" />
 
+---
+
+## 🔢 Truth Table
+<img width="804" height="372" alt="image" src="https://github.com/user-attachments/assets/52ebcb63-b6dc-4301-b692-ce02fe8ebb1c" />
+
 
 ---
 
