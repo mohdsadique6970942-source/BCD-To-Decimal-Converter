@@ -1,14 +1,6 @@
 # 🔢 BCD to Decimal Converter using IC 7447
 
-This project demonstrates a hardware-based **BCD (Binary Coded Decimal) to Decimal converter** using the **IC 7447** and a **common anode 7-segment display**. It converts 4-bit binary input into a human-readable decimal output.
-
----
-
-## 📌 Features
-- Converts **4-bit BCD input (0–9)** into decimal display  
-- Uses **IC 7447 decoder/driver**  
-- Displays output on **7-segment display**  
-- Simple and beginner-friendly digital electronics project  
+This project demonstrates a hardware-based **BCD (Binary Coded Decimal) to Decimal converter** using the **IC 7447** and a **common anode 7-segment display**. It converts 4-bit binary input into a human-readable decimal output. 
 
 ---
 
